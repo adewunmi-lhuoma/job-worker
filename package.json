@@ -1,0 +1,10 @@
+{
+  "name": "job-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Node.js job worker with retry support",
+  "scripts": {
+    "start": "node worker.js",
+    "test": "node --test"
+  }
+}
